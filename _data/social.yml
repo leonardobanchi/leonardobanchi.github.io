@@ -202,3 +202,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+scholar:
+  name: Google-Scholar
+  icon: google-scholar
+

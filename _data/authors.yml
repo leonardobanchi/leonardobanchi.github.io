@@ -22,6 +22,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    scholar:            https://scholar.google.it/citations?user=MufU09cAAAAJ
     #twitter:         jekyllrb
     #github:          qwtel/hydejack
     # download:        <url>
