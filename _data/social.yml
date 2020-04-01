@@ -204,5 +204,5 @@ download:
   icon: icon-box-add
 scholar:
   name: Google-Scholar
-  icon: ai-google-scholar
+  icon: ai ai-google-scholar-square ai-3x
 
