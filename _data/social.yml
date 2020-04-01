@@ -205,4 +205,12 @@ download:
 scholar:
   name: Google-Scholar
   icon: ai ai-google-scholar-square ai-2x
-
+researchgate:
+  name: ResearchGate
+  icon: ai ai-resarchgate ai-2x
+scirate:
+  name: Scirate
+  icon: ai ai-scirate ai-2x
+orcid:
+  name: Orcid
+  icon: ai ai-orcid ai-2x

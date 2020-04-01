@@ -22,7 +22,11 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    email:              leonardo.banchi@unifi.it 
+    researchgate:       https://www.researchgate.net/profile/Leonardo_Banchi
+    orcid:              https://orcid.org/0000-0002-6324-8754
     scholar:            https://scholar.google.it/citations?user=MufU09cAAAAJ
+    scirate:            https://scirate.com/search?utf8=%E2%9C%93&q=leonardo+banchi
     #twitter:         jekyllrb
     #github:          qwtel/hydejack
     # download:        <url>
