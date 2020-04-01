@@ -204,10 +204,10 @@ download:
   icon: icon-box-add
 scholar:
   name: Google-Scholar
-  icon: ai ai-google-scholar-square ai-2x
+  icon: ai ai-google-scholar-square ai-1x
 researchgate:
   name: ResearchGate
-  icon: ai ai-resarchgate ai-2x
+  icon: ai ai-researchgate ai-2x
 scirate:
   name: Scirate
   icon: ai ai-scirate ai-2x
