@@ -7,7 +7,7 @@ Publications and preprints can be found in the following websites:
 
 [Google Scholar](https://scholar.google.it/citations?user=MufU09cAAAAJ)
 
-[Scirate](https://scirate.com/search?utf8=%E2%9C%93&q=leonardo+banchi)
+[Scirate](https://scirate.com/search?q=au:Banchi_L+in:quant-ph)
 
 [ResearchGate](https://www.researchgate.net/profile/Leonardo_Banchi)
 
