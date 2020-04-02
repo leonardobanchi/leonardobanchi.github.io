@@ -1,24 +1,11 @@
 # Config
-# ========================================================================================
+# ====================================================
 
-# IMPORTANT: Set the URL of your site.
-# Set to https://<username>.github.io when hosting on GitHub Pages
-# (unless you are using a custom domain).
 url:                   https://leonardobanchi.github.io
-
-# IMPORTANT: Set The "base URL" of your site.
-# When your site sits in a subdirectory, set to /<name of directory>
-# (with leading /, but without the < >).
-# Use the empty string '' otherwise.
-# For GitHub project sites, this is usually the name of the project,
-# e.g. `/hydejack`.
 baseurl:               ''
 
-# Language of your content in 2-letter code, e.g.: en, de.
-# You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
-# The title of your blog. Used in the sidebar and the browser tab.
 title:                 Leonardo Banchi
 
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -42,8 +29,6 @@ logo:                  /assets/leo.jpeg
 author:
   name:                Leonardo Banchi
   email:               leonardo.banchi@unifi.it
-  # Used by `jekyll-seo-tag`:
-  # twitter:             
 
 # Add links to the sidebar.
 menu:
@@ -72,7 +57,7 @@ paginate_path:         /page-:num/
 
 
 # Customizaton
-# ========================================================================================
+# ====================================================================
 
 # Sidebar image and theme color of the site.
 #accent_image:          /assets/img/sidebar-bg.jpg
@@ -118,11 +103,11 @@ defaults:
 
 
 # 3rd Party Integrations
-# ----------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-162566255-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -132,7 +117,7 @@ defaults:
 # tinyletter:            <tinyletter_username>
 
 # Hydejack Settings
-# ----------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
 hydejack:
@@ -214,7 +199,7 @@ hydejack:
 
 
 # Collections
-# ========================================================================================
+# ========================================================================
 
 collections:
   featured_categories:
@@ -231,7 +216,7 @@ collections:
 
 
 # File inclusion/exclusion
-# ========================================================================================
+# =======================================================================
 
 exclude:
   - vendor
@@ -250,7 +235,7 @@ include:
 
 
 # Plugins
-# ========================================================================================
+# ======================================================================
 
 plugins:
   - jekyll-default-layout
@@ -271,7 +256,7 @@ plugins:
 remote_theme: qwtel/hydejack@v8.5.1
 
 # SEO Tag
-# ---------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
 # google_site_verification: <verification-id>
@@ -301,7 +286,7 @@ remote_theme: qwtel/hydejack@v8.5.1
 
 
 # Other Plugins
-# ---------------------------------------------------------------------------------------
+# --------------------------------------------------------------------
 
 optional_front_matter:
   remove_originals:    true
