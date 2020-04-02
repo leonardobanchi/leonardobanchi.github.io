@@ -1,7 +1,8 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  #  icon: icon-mail
+  icon: fas fa-envelope-square fa-lg
   prepend: 'mailto:'
 amazon:
   name: Amazon
