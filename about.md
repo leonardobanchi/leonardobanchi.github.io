@@ -3,7 +3,7 @@ layout: about
 title: About Me
 ---
 
-**Assistant Professor / RTD-B**
+**Associate Professor**
 
 Department of Physics and Astronomy,   
 University of Florence,  
